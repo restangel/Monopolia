@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/monopolia/MainActivity.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/monopolia/MonopolyActivity.kt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/monopolia/connection" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/monopolia/fragments" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/monopolia/gameplay" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/monopolia/interfaces" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-night" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
